@@ -16,8 +16,8 @@ role: PhD Candidate
 organizations:
 - name: Vanderbilt University
   url: "https://as.vanderbilt.edu/econ/"
-# - name: Stears Business
-#   url: "https://www.stearsng.com/writer/ebehi-iyoha"
+- name: Columnist | Stears Business
+  url: "https://www.stearsng.com/writer/ebehi-iyoha"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
