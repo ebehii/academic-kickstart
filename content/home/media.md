@@ -27,5 +27,5 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2014-12-01"
   date_end = ""
-  description = "My column examines the impact government policy on the Nigerian economy."
+  description = "My column examines the impact of government policy on the Nigerian economy."
 +++
